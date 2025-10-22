@@ -3,3 +3,6 @@
 .vscode/**
 **/*.zip
 **/*.pdf
+node_modules/
+node_modules/*
+node_modules/**
