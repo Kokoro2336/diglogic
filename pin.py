@@ -38,7 +38,7 @@ if __name__ == "__main__":
 
         print("Generating PDF report...")
         html = markdown.markdown(md, extensions=['extra', 'toc'])
-        HTML(string=html, base_url=".").write_pdf(target_path)
+        HTML(string=html, base_url=md_path).write_pdf(target_path)
         exit(0)
 
     if args.lab:

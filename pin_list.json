@@ -75,6 +75,24 @@
         "wsel[1]": "SW21",
         "wsel[2]": "SW22"
       }
+    },
+    {
+      "light": {
+        "clk": "CLK",
+        "rst": "S1",
+        "button": "S2",
+        "freq_set[0]": "SW0",
+        "freq_set[1]": "SW1",
+        "dir_set": "SW23",
+        "led[0]": "GLD0",
+        "led[1]": "GLD1",
+        "led[2]": "GLD2",
+        "led[3]": "GLD3",
+        "led[4]": "GLD4",
+        "led[5]": "GLD5",
+        "led[6]": "GLD6",
+        "led[7]": "GLD7"
+      }
     }
   ],
 
