@@ -93,6 +93,37 @@
         "led[6]": "GLD6",
         "led[7]": "GLD7"
       }
+    },
+    {
+      "main": {
+        "clk": "CLK",
+        "rst": "S1",
+        "dec_start": "S2",
+        "hex_count": "S3",
+        "en": "SW0",
+        "led_en[1]": "A0",
+        "led_en[2]": "A1",
+        "led_en[3]": "A2",
+        "led_en[4]": "A3",
+        "led_en[5]": "A4",
+        "led_en[6]": "A5",
+        "led_en[7]": "A6",
+        "led_en[0]": "A7",
+        "led_cx[0]": "DP",
+        "led_cx[7]": "CA",
+        "led_cx[6]": "CB",
+        "led_cx[5]": "CC",
+        "led_cx[4]": "CD",
+        "led_cx[3]": "CE",
+        "led_cx[2]": "CF",
+        "led_cx[1]": "CG"
+      }
+    },
+    {
+      "main": {
+        "clk":"CLK",
+        "rst":"S1"
+      }
     }
   ],
 
